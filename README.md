@@ -5,10 +5,10 @@
 
 <h2 align="center" > Hello👋 im a programmer🦾 </h2>
 <p align= "center">
-•🌲 My name is Mohammad🙃
-•🛋️ I live in Iran🇮🇷
-•💯 I Love Programm and Computer🖥️
-•🤙 Developer Web and Network🌐
+•🌲 My name is Mohammad🙃<hr>
+•🛋️ I live in Iran🇮🇷<hr>
+•💯 I Love Programm and Computer🖥️<hr>
+•🤙 Developer Web and Network🌐<hr>
 </p>
 
 <h2 align="left"> The tools I use: </h2>
