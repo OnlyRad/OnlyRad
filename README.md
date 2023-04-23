@@ -1,4 +1,4 @@
-<a href="github.com/OnlyRad" font-siz="40px">Mohamad Mehrabi</a>
+# <a href="github.com/OnlyRad">Mohamad Mehrabi</a>
 <hr>
 
 Hello  My Name is Mohamad ,  and I am interested in programming. I'm glad you follow me
