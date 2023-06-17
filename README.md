@@ -6,8 +6,8 @@ Hello  My Name is Mohamad ,  and I am interested in programming.I am 16 years ol
 
 > # Social Media
 
-- [Telegram] (https://t.me/OnmyRad)
-- [Rubika] (https://rubika.ir/OnlyMamad)
-- [GitHub] (https://github.com/OnlyRad)
+- Telegram: (https://t.me/OnlyRad)
+- Rubika: (https://rubika.ir/OnlyMamad)
+- GitHub: (https://github.com/OnlyRad)
 
 <br>
